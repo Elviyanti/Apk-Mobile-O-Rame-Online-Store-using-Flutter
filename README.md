@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # uas
-
 A new Flutter project.
 
 ## Getting Started
@@ -19,14 +17,11 @@ samples, guidance on mobile development, and a full API reference.
 # Apk-Mobile-O-Rame-Online-Store-using-Flutter
 O'Rame is a simple mobile e-commerce application built with Flutter, designed to provide a smooth and intuitive online shopping experience. This project was developed as part of a mobile programming practice, focusing on user authentication, screen navigation, and Firebase integration.
 
-🚀 Purpose
-
+#🚀 Purpose
 This app was developed as a learning project to explore user flow, authentication, and cloud database integration using Flutter and Firebase. It's a great starting point for beginners who want to build a basic e-commerce mobile app.
 
 
-
-🔧 Main Features
-
+#🔧 Main Features
 Splash Screen and interactive Welcome Screen
 
 Login and Registration pages with seamless navigation
@@ -41,9 +36,7 @@ Product images loaded from external URLs
 
 Clean, responsive, and minimal UI
 
-
-📱 Technologies Used
-
+#📱 Technologies Used
 Flutter & Dart
 
 Firebase Firestore, authentication
